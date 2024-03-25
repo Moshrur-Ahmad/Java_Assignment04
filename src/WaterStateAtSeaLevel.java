@@ -10,8 +10,6 @@ public class WaterStateAtSeaLevel {
         if (unit == 'F' || unit == 'f') {
             temperature = (temperature - 32) * 5 / 9;
         }
-
-        // Determine state of water at given temperature
         String state;
         if (temperature < 0) {
             state = "solid";
