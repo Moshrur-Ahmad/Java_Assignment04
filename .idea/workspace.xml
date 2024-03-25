@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aedcaf33-a46d-4fad-a37e-fc83f7301aaa" name="Changes" comment="LargestNumber">
-      <change afterPath="$PROJECT_DIR$/src/LexicographicSort.java" afterDir="false" />
+    <list default="true" id="aedcaf33-a46d-4fad-a37e-fc83f7301aaa" name="Changes" comment="LexicographicSort">
+      <change afterPath="$PROJECT_DIR$/src/DecimalComparison.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="E-5.17" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,11 +38,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.DecimalComparison.executor": "Run",
     "Application.LargestNumber.executor": "Run",
     "Application.LexicographicSort.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "E-5.17",
+    "git-widget-placeholder": "E-5.18",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "D:/Java Program/Assignment 4/src/Main.java"
   }
@@ -64,12 +65,21 @@
       <option name="project" value="LOCAL" />
       <updated>1711331869720</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="LexicographicSort">
+      <option name="closed" value="true" />
+      <created>1711332276724</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711332276725</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="LargestNumber" />
-    <option name="LAST_COMMIT_MESSAGE" value="LargestNumber" />
+    <MESSAGE value="LexicographicSort" />
+    <option name="LAST_COMMIT_MESSAGE" value="LexicographicSort" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
